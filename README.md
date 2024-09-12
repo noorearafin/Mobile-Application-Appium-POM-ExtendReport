@@ -32,15 +32,12 @@ This project uses the following tools to perform Android application testing:
 1. Clone this repository:
    ```bash
    git clone https://github.com/noorearafin/Mobile-Application-Appium-POM-ExtendReport.git
-   cd android-selenium-appium-project
 
 2. Install dependencies using Maven:
    ```bash
    mvn clean install
-   
-Start Appium server:
-
-bash
-Copy code
-appium
-Configure Android Emulator in Android Studio and ensure the emulator is running.
+      
+3. Start Appium server:
+   ```bash
+      appium
+4. Configure Android Emulator in Android Studio and ensure the emulator is running.
