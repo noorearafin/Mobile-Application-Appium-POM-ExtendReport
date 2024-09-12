@@ -1,0 +1,1 @@
+{"uuid":"0319d8d8-968f-44ff-9f5c-7ddabf53a78d","name":"BankAsia_DQMS_POM - Copy","children":["7ebec808-3fb3-4442-9a67-9059d63208a7"],"befores":[{"name":"setDevice","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725941824767,"stop":1725941833603}],"afters":[],"start":1725941824751,"stop":1725941833892}
