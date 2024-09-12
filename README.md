@@ -63,16 +63,7 @@ You can start the Appium server by running:
     ```bash
        appium
 ## Project Structure
-├── src
-│   ├── main
-│   │   └── java
-│   │       └── pages
-│   └── test
-│       └── java
-│           ├── tests
-│           ├── utils
-├── pom.xml
-├── README.md
+ ![image](https://github.com/user-attachments/assets/ec78d42e-a5bc-41de-a379-c91c089c8ee3)
 
 
 
