@@ -42,13 +42,13 @@ This project uses the following tools to perform Android application testing:
       appium
 4. Configure Android Emulator in Android Studio and ensure the emulator is running.
 ### Usage
-## Running the Tests
+#### Running the Tests
 1. Open your IDE (Eclipse/IntelliJ) and import the project.
 2. Ensure that the Android Emulator is up and running.
 3. Run the test cases using Maven or directly from your IDE
    ```bash
       mvn test
-## Maven Commands
+#### Maven Commands
 - To clean and install the project, run
     ```bash
       mvn clean install
@@ -58,4 +58,11 @@ This project uses the following tools to perform Android application testing:
 - For running specific test cases, use:
    ```bash
    mvn -Dtest=TestClassName test
+#### Appium Server Command
+You can start the Appium server by running:
+ ```bash
+      appium
+
+Ensure the server is running in the background while executing the tests.
+
 
