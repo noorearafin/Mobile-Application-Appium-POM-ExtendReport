@@ -63,6 +63,5 @@ You can start the Appium server by running:
  ```bash
       appium
 
-Ensure the server is running in the background while executing the tests.
 
 
