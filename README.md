@@ -60,8 +60,21 @@ This project uses the following tools to perform Android application testing:
    mvn -Dtest=TestClassName test
 #### Appium Server Command
 You can start the Appium server by running:
- ```bash
-      appium
+    ```bash
+       appium
+## Project Structure
+├── src
+│   ├── main
+│   │   └── java
+│   │       └── pages
+│   └── test
+│       └── java
+│           ├── tests
+│           ├── utils
+├── pom.xml
+├── README.md
+
+
 
 
 
